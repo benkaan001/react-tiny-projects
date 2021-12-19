@@ -2,22 +2,26 @@
 
 This is a collection of small projects to practice and apply the fundemental React concepts.
 
-## 1-birthday-reminder
+## 6-resume
 
-![gif](https://github.com/benkaan001/react-tiny-projects/blob/main/1-birthday-reminder/assets/birthday-reminder.gif)
+![gif](https://github.com/benkaan001/react-tiny-projects/blob/main/1-birthday-reminder/assets/resume.gif)
 
-## 2-tours
+## 5-calorie-content
 
-![gif](https://github.com/benkaan001/react-tiny-projects/blob/main/1-birthday-reminder/assets/tours.gif)
-
-## 3-leadership-team
-
-![gif](https://github.com/benkaan001/react-tiny-projects/blob/main/1-birthday-reminder/assets/leadership-team.gif)
+![gif](https://github.com/benkaan001/react-tiny-projects/blob/main/1-birthday-reminder/assets/calorie-content.gif)
 
 ## 4-FAQ
 
 ![gif](https://github.com/benkaan001/react-tiny-projects/blob/main/1-birthday-reminder/assets/FAQ.gif)
 
-## 5-Calorie-Content
+## 3-leadership-team
 
-![gif](https://github.com/benkaan001/react-tiny-projects/blob/main/1-birthday-reminder/assets/calorie-content.gif)
+![gif](https://github.com/benkaan001/react-tiny-projects/blob/main/1-birthday-reminder/assets/leadership-team.gif)
+
+## 2-tours
+
+![gif](https://github.com/benkaan001/react-tiny-projects/blob/main/1-birthday-reminder/assets/tours.gif)
+
+## 1-birthday-reminder
+
+![gif](https://github.com/benkaan001/react-tiny-projects/blob/main/1-birthday-reminder/assets/birthday-reminder.gif)
