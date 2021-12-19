@@ -2,6 +2,10 @@
 
 This is a collection of small projects to practice and apply the fundemental React concepts.
 
+## 7-reviews
+
+![gif](https://github.com/benkaan001/react-tiny-projects/blob/main/1-birthday-reminder/assets/reviews.gif)
+
 ## 6-resume
 
 ![gif](https://github.com/benkaan001/react-tiny-projects/blob/main/1-birthday-reminder/assets/resume.gif)
